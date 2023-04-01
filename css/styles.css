@@ -1,0 +1,18 @@
+body {
+    background: rgb(248, 232, 166);
+    text-align: center;
+}
+
+a {
+    display: inline;
+    text-decoration: underline;
+    color: #309b7b;
+    margin: auto 10px;
+}
+
+.crossant-image {
+    display: block;
+    max-width: 80%;
+    border-radius: 10px;
+    margin: 10px auto;
+}
